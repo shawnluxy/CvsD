@@ -1,2 +1,1 @@
-# CvsD
-Cats \/ Dogs
+# Cat vs Dog
